@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/APICALL/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/APICALL/vendor/fungku/hubspot" />
+      <excludeFolder url="file://$MODULE_DIR$/APICALL/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/APICALL/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/APICALL/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/APICALL/vendor/hubspot/api-client" />
+      <excludeFolder url="file://$MODULE_DIR$/APICALL/vendor/hubspot/hubspot-php" />
+      <excludeFolder url="file://$MODULE_DIR$/APICALL/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/APICALL/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/APICALL/vendor/ralouphie/getallheaders" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
